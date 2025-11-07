@@ -29,3 +29,8 @@ console.log(nouText);
 var undefine= undefined
 var nul = null
 console.log(undefine+nul)
+
+let bool = true;
+let explicit = String(bool);
+let implicit = bool + "";
+console.log( explicit, implicit);
