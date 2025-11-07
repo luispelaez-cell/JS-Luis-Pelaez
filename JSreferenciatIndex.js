@@ -10,3 +10,7 @@ let catet1 = 4;
 let catet2 = 4;
 let hipotenusa = Math.hypot(catet1, catet2)
 console.log(hipotenusa.toFixed(2))
+
+let string = "Fortnite"
+let stringing = "Valorant"
+console.log(string/stringing)
