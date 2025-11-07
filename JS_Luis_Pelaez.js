@@ -6,3 +6,4 @@ let bocatalomo= "ya"
 const sixorseven = 67
 console.log(jamoniqueso)
 jamoniqueso = "false"
+console.log(jamoniqueso)
