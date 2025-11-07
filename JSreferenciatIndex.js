@@ -14,3 +14,8 @@ console.log(hipotenusa.toFixed(2))
 let string = "Fortnite"
 let stringing = "Valorant"
 console.log(string/stringing)
+
+let nomComplet = "Luis Pelaez Martos";
+let parts = nomComplet.split(" ");
+let primerCognom = parts[1]
+console.log(primerCognom)
