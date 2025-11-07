@@ -19,3 +19,9 @@ let nomComplet = "Luis Pelaez Martos";
 let parts = nomComplet.split(" ");
 let primerCognom = parts[1]
 console.log(primerCognom)
+
+let text = "Luis pleaez Martos";
+let posicio = 6;
+
+let nouText = text.slice(0, posicio) + text.slice(posicio + 1);
+console.log(nouText);
