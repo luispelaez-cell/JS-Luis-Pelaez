@@ -39,3 +39,7 @@ let txt1 = "helow"
 let explicit1 = Boolean(stri);
 if (txt1) {console.log("true");}
 console.log( explicit1, );
+
+let t = true
+console.log(Number(t))
+console.log(t + 5)
