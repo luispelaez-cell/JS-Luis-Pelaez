@@ -25,3 +25,7 @@ let posicio = 6;
 
 let nouText = text.slice(0, posicio) + text.slice(posicio + 1);
 console.log(nouText);
+
+var undefine= undefined
+var nul = null
+console.log(undefine+nul)
