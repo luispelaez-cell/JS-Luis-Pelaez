@@ -33,4 +33,9 @@ console.log(undefine+nul)
 let bool = true;
 let explicit = String(bool);
 let implicit = bool + "";
-console.log( explicit, implicit);
+console.log( explicit, implicit)
+let stri = "false"
+let txt1 = "helow"
+let explicit1 = Boolean(stri);
+if (txt1) {console.log("true");}
+console.log( explicit1, );
