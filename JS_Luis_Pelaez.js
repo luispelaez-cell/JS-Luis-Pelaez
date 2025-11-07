@@ -7,3 +7,6 @@ const sixorseven = 67
 console.log(jamoniqueso)
 jamoniqueso = "false"
 console.log(jamoniqueso)
+console.log(sixorseven)
+sixorseven = "patata"
+console.log(sixorseven)
